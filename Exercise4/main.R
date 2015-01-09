@@ -1,6 +1,7 @@
 # AD-Scripting, Astrid Bos & David Scholte-Albers
 # 08 January 2014
 
+
 # Start with empty environment
 rm(list=ls())
 
